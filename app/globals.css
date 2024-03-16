@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: rgb(147, 99, 167);
+}

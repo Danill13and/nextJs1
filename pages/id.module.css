@@ -1,0 +1,43 @@
+.main{
+    background-color: rgb(228, 159, 255);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main_block_style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+    border: 5px;
+    /* background:  rgb(193, 160, 206); */
+}
+
+.image{
+    border-radius: 10%;
+    border: 2px;
+    padding: auto;
+    margin-top: 10px;
+    
+}
+
+.name{
+    padding: auto;
+    width: auto;
+    
+}
+
+.price{
+    padding: auto;
+    width: auto;
+    
+}
+
+.back{
+    padding: auto;
+    width: auto;
+    
+}
